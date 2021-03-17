@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 6bbcdf70573c3544186a416c5052b74e
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Nikoleta
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a09fa64cab014aa4a8a6c0ff71d7242d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
